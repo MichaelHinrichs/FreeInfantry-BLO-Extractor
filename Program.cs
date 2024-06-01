@@ -1,4 +1,4 @@
-﻿namespace FreeeInfantry_BLO_Extractor
+﻿namespace FreeInfantry_BLO_Extractor
 {
     internal class Program
     {

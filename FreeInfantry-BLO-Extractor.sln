@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeeInfantry-BLO-Extractor", "FreeeInfantry-BLO-Extractor.csproj", "{A3BC494F-42A1-4C06-B33A-0A2925A68982}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeInfantry-BLO-Extractor", "FreeInfantry-BLO-Extractor.csproj", "{A3BC494F-42A1-4C06-B33A-0A2925A68982}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
