@@ -11,9 +11,7 @@
 
             List<Subfile> subfiles = new();
             for (int i = 0; i < fileCount; i++)
-            {
                 subfiles.Add(new());
-            }
 
             string path = Path.GetDirectoryName(args[0]) + "\\" + Path.GetFileNameWithoutExtension(args[0]);
             Directory.CreateDirectory(path);
