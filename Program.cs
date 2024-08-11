@@ -29,8 +29,7 @@
         class Subfile
         {
             public string[] name = new string(br.ReadChars(32)).TrimEnd('\0').Split('\0');
-            public int start = br.ReadInt32();
-            public int size = br.ReadInt32();
+            public int start = br.ReadInt32(), size = br.ReadInt32();
         }
     }
 }
